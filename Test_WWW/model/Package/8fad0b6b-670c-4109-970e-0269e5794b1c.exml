@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="test_www" version="3">
+  <DEPS>
+    <ID name="test_www" mc="Package" uid="8fad0b6b-670c-4109-970e-0269e5794b1c"/>
+    <COMPID name="ABC" mc="Class" uid="3af3d50b-bbf3-4c58-b5be-fba459f45b1f"/>
+    <COMPID name="overview diagram" mc="ClassDiagram" uid="1b37e0bc-4aba-4e2f-aa4d-4722d1edebfe"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="test_www" mc="Package" uid="8fad0b6b-670c-4109-970e-0269e5794b1c"/>
+    <PID name="Test_WWW" mc="Project" uid="ae14e903-a4b3-4817-af3e-08ec864cefec"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[test_www]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ABC" mc="Class" uid="3af3d50b-bbf3-4c58-b5be-fba459f45b1f"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="overview diagram" mc="ClassDiagram" uid="1b37e0bc-4aba-4e2f-aa4d-4722d1edebfe"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

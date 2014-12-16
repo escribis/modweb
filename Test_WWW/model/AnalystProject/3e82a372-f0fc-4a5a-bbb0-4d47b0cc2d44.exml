@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Test_WWW" version="3">
+  <DEPS>
+    <ID name="Test_WWW" mc="AnalystProject" uid="3e82a372-f0fc-4a5a-bbb0-4d47b0cc2d44"/>
+    <COMPID name="Test_WWW" mc="PropertyContainer" uid="1d50a3b9-97da-4af2-8210-c2f910bddb34"/>
+  </DEPS>
+  <OBJECT>
+    <ID name="Test_WWW" mc="AnalystProject" uid="3e82a372-f0fc-4a5a-bbb0-4d47b0cc2d44"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Test_WWW]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="PropertyRoot">
+        <COMPID name="Test_WWW" mc="PropertyContainer" uid="1d50a3b9-97da-4af2-8210-c2f910bddb34"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
