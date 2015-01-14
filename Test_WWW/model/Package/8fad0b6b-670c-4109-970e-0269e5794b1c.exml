@@ -2,7 +2,8 @@
 <!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="test_www" version="3">
   <DEPS>
     <ID name="test_www" mc="Package" uid="8fad0b6b-670c-4109-970e-0269e5794b1c"/>
-    <COMPID name="ABC" mc="Class" uid="3af3d50b-bbf3-4c58-b5be-fba459f45b1f"/>
+    <COMPID name="A" mc="Class" uid="3af3d50b-bbf3-4c58-b5be-fba459f45b1f"/>
+    <COMPID name="B" mc="Class" uid="5e993b64-2cfa-45e6-8cd8-fbbaf3928f01"/>
     <COMPID name="overview diagram" mc="ClassDiagram" uid="1b37e0bc-4aba-4e2f-aa4d-4722d1edebfe"/>
   </DEPS>
   <OBJECT>
@@ -19,7 +20,8 @@
     </ATTRIBUTES>
     <DEPENDENCIES>
       <COMP relation="OwnedElement">
-        <COMPID name="ABC" mc="Class" uid="3af3d50b-bbf3-4c58-b5be-fba459f45b1f"/>
+        <COMPID name="A" mc="Class" uid="3af3d50b-bbf3-4c58-b5be-fba459f45b1f"/>
+        <COMPID name="B" mc="Class" uid="5e993b64-2cfa-45e6-8cd8-fbbaf3928f01"/>
       </COMP>
       <COMP relation="Product">
         <COMPID name="overview diagram" mc="ClassDiagram" uid="1b37e0bc-4aba-4e2f-aa4d-4722d1edebfe"/>

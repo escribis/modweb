@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
-<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ABC" version="3">
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="A" version="3">
   <DEPS>
-    <ID name="ABC" mc="Class" uid="3af3d50b-bbf3-4c58-b5be-fba459f45b1f"/>
+    <ID name="A" mc="Class" uid="3af3d50b-bbf3-4c58-b5be-fba459f45b1f"/>
   </DEPS>
   <OBJECT>
-    <ID name="ABC" mc="Class" uid="3af3d50b-bbf3-4c58-b5be-fba459f45b1f"/>
+    <ID name="A" mc="Class" uid="3af3d50b-bbf3-4c58-b5be-fba459f45b1f"/>
     <PID name="test_www" mc="Package" uid="8fad0b6b-670c-4109-970e-0269e5794b1c"/>
     <ATTRIBUTES>
       <ATT name="IsActive">false</ATT>
@@ -14,7 +14,7 @@
       <ATT name="IsLeaf">false</ATT>
       <ATT name="IsRoot">false</ATT>
       <ATT name="Visibility">Public</ATT>
-      <ATT name="Name"><![CDATA[ABC]]></ATT>
+      <ATT name="Name"><![CDATA[A]]></ATT>
       <ATT name="status">1970354901745664</ATT>
     </ATTRIBUTES>
     <DEPENDENCIES></DEPENDENCIES>
